@@ -1,14 +1,13 @@
-# jsbasics
+# jsdeepdive
 
-An interactive introduction to basic and important concepts of JavaScript.  
-Topics currently covered:
+An interactive introduction to important concepts of JavaScript.  Topics 
+currently covered:
 
-- variables
 - data types
-- expressions and statements
+- objects and prototypes
 - scope
 - `this`
-- constructors and prototypes
+- constructors and classes
 
 The presentation is being updated to include references to ES2015+ features.
 
