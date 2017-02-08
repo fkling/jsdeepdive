@@ -1,5 +1,5 @@
 ---
-title: JavaScript Basics
+title: JavaScript Deep Dive
 toc: Title
 chapter: Intro
 layout: Center
@@ -17,7 +17,7 @@ scale:
   content_width: 39
   column_width: 0.6
 ---
-A quick introduction to basic and important concepts of JavaScript
+A deeper look on important concepts of JavaScript
 
 Use the arrow keys (**&larr;, &rarr;**) to navigate through the page.
 
