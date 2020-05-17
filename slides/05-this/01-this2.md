@@ -25,7 +25,7 @@ var sarah = {
 felix.sayName(); // My name is Felix
 sarah.sayName(); // My name is Sarah
 say.call({name: 'Anonymous'}); // My name is Anonymous
-say(); // My names is undefined
+say(); // My names is --> that is because "this" would be the window object, which contains a "name" property, initialized to an empty string.
 ```
 
 In this example we define a single function that uses `this` internally. The
